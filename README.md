@@ -66,7 +66,6 @@ A comprehensive, full-stack Learning Management System built with React, Node.js
 - **Backend API**: [API Documentation](https://your-api-docs.com)
 
 ### Screenshots
-<details>
 <summary>📱 Click to view screenshots</summary>
 
 #### Student Dashboard
